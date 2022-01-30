@@ -11,5 +11,6 @@ Our first enhancement will undertake some key functionalities
 Firstly, the app database runs on Microsoft SQL Server Management Tool. You will need to install the Database so that the app can talk to the database
 Install Visual studio 2019 community and when selecting the project, select the ASP>NET Core Web App (Model,-View-Controller with C#)
 You will then ingest the database first approach 
+**Please read the Manual of Codes **
 
 
