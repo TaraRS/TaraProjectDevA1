@@ -12,5 +12,7 @@ Firstly, the app database runs on Microsoft SQL Server Management Tool. You will
 Install Visual studio 2019 community and when selecting the project, select the ASP>NET Core Web App (Model,-View-Controller with C#)
 You will then ingest the database first approach 
 **Please read the Manual of Codes **
+** Explaination of my choice of License **
+
 
 
