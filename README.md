@@ -1,7 +1,7 @@
 # TaraProjectDevA1
 TaraRSAssignment1
 **Create a README.md file with instructions on how to build install and use your project**
-** Important App Summary**
+** App Summary**
 The app is a basic database-driven ASP.NET Core MVC web app simple Financial Transaction app thats investor wants an app to keep track of the stock transactions that he or she makes in their personal investment portfolio. It tracks Gross and Net values of Companies that are registered users.
 It displayed their Logo, Transaction type, Company name, quantity of shares, share price, commission fees, gross value and net value. The users has the ability to edit and delete transactions of existing records They can also choose to cancel any edits. Id the delete functionality is selected a confirmation toast message will be displayed (eg Confirm Deletion
 100 Shares of Google (GOOG) - Share Price: 2701.76 , Delete or Cancel)
